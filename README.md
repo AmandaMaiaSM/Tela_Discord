@@ -65,7 +65,16 @@ Este projeto tem como objetivo praticar e aprimorar os conceitos iniciais de **H
 - Explorar **JavaScript** para tornar a página mais interativa
 
 ---
+## 📌 Resultado:
 
+![image](https://github.com/user-attachments/assets/7bfd398d-d45a-489a-846e-f05864f20cca)
+![image](https://github.com/user-attachments/assets/ee996acc-9fe8-4824-9f6d-e9f26306fbf1)
+![image](https://github.com/user-attachments/assets/09f9d0fd-442d-4a30-b81f-e2b7c88b7d44)
+![image](https://github.com/user-attachments/assets/d02d6a72-4bc1-4a30-8efd-a97d3e676e82)
+![image](https://github.com/user-attachments/assets/7b4c9c17-76c1-4c1d-92ee-1282b7c71d94)
+![image](https://github.com/user-attachments/assets/0309bbae-bc99-41cf-9896-2446b36a9bfc)
+
+---
 ## 📜 Licença
 Este projeto foi desenvolvido para fins de aprendizado e pode ser modificado e utilizado livremente. 😊
 
